@@ -6,7 +6,7 @@ email: ＥvanChen99@outlook.com
 
 plugins:
   - jekyll-seo-tag
-
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
 
