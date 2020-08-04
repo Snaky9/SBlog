@@ -1,64 +1,21 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/Mighil)
+---
+title: How To Use This Theme
+type: post
+seotitle: SparroX - Best Minimal Jeykll Theme Documentation and Download
+author: Mighil
+description: Read the documenation for SparrowX minimal and clean Jekll theme. 
+url: /documentation/
+tags:
+  - documentation
+---
 
-# SparrowX - Jekyll Netlify CMS Boilerplate
+## Documentation
 
-A clean minimal Jekyll theme for SEO-focused writers. The theme loads fast and it's Netlify CMS-ready. SparrowX is a remix of sparrow by [lingxz](https://github.com/lingxz/sparrow).
-
-[Live Demo](https://sparrowx.mighil.com/)
-
-- [Features](#features)
-- [Install](#install)
-- [Up and running with Netlify CMS](#up-and-running-with-netlify-cms)
-    - [General configuration](#general-configuration)
-    - [Disqus](#disqus)
-    - [Google analytics](#google-analytics)
-    - [Collections](#collections)
-    - [Pagination](#pagination)
-    - [Navigation](#navigation)
-    - [Front matter defaults](#front-matter-defaults)
-    - [Other](#other)
-- [Credits](#credits)
-
-## Screenshot 
-
-![](screenshot.png)
-
-## Website Speed Test 
-
-![](pagespeed.png)
-
-## Original Sparrow Features
-
-- Fully compatible with Github Pages
-- Configurable and responsive multi layer menu, adapted from [slimmenu](https://github.com/adnantopal/slimmenu)
-- Disqus integration
-- [Font Awesome icons](http://fontawesome.io/) included
-- Google analytics
-- Social sharing using [rrssb](https://www.rrssb.ml/)
-- 404 page included
-- Atom feed generated with [jekyll-feed](https://github.com/jekyll/jekyll-feed)
-- Pagination enabled for blog using [jekyll-paginate](https://github.com/jekyll/jekyll-paginate)
-- Basic SEO with Facebook Open Graph tags and Twitter cards
-
-## SparrowX Features
-
--  Fully compatible with Netlify CMS (one-click setup).
--  Added new custom variables like updated, headerimage, feature-img, sitemap and tag.
--  The theme renders system font-stack.
--  Compressed JS.
--  Improved load time and reduced file requests.
--  _redirects feature
+Here's the basic documentation for SparrowX. [Visit this page](/netlify-cms-jekyll-setup) to read the documentation for Netlify CMS.
 
 ## Install
 
-Just fork this repo and replace the posts with your own. Also rename the sample poetry collection to replace it with your own collection, or just delete it if you don't need to use collections. The example is poetry, but you can easily revamp this into essays, short stories, portfolio, or whatever your creative work is. 
-
-
-## Up and running with Netlify CMS
-
-[Click here](https://sparrowx.mighil.com/netlify-cms-jekyll-setup) to read the documentation for Netlify CMS.
-
-For customization, see below. 
+Just [fork this repo](https://github.com/mighildotcom/sparrowx/fork) and replace the posts with your own. Also rename the sample poetry collection to replace it with your own collection, or just delete it if you don't need to use collections. The example is poetry, but you can easily revamp this into essays, short stories, portfolio, or whatever your creative work is. 
 
 ### General configuration
 
@@ -170,8 +127,3 @@ Your default image Netlify CMS uploads will go to /images/.
 For the various config options see the [sample config file for the demo site](https://github.com/mighildotcom/sparrowx/blob/master/_config.yml)
 
 The color schemes and fonts can also be customized through scss, by editing the relevant variable in `_variables.scss`. 
-
-## Credits
-
-- Base theme sparrow by [lingxz](https://github.com/lingxz/sparrow)
-- Icon made by [Freepik](https://www.freepik.com/) from www.flaticon.com 
