@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【诡秘之主/兹克】密偶大师与寄生者
+title: 密偶大师与寄生者
 tags: [诡秘之主,兹克]
 categories: 诡秘短篇
 author: 玟梓
