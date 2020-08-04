@@ -1,115 +1,286 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
-categories: junk
-tags: [markdown, css, html]
-author:
-  - Bart Simpson
-  - Nelson Mandela Muntz
+title: 【诡秘之主/兹克】密偶大师与寄生者
+tags: [诡秘之主,兹克]
+categories: 诡秘短篇
+author: 玟梓
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
-
-## Some great heading (h2)
-
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
-
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-## Another great heading (h2)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
-
-### Some great subheading (h3)
-
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
-
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Some great subheading (h3)
-
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-> This quote will *change* your life. It will reveal the <i>secrets</i> of the universe, and all the wonders of humanity. Don't <em>misuse</em> it.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
-
-### Some great subheading (h3)
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
-
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
-
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### You might want a sub-subheading (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### But it's probably overkill (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-##### Could be a smaller sub-heading, `pacman` (h5)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-###### Small yet significant sub-heading  (h6)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
+### Summary：
+##### 唐泰斯先生的的宅邸里来了一位罕见的客人，他真的是客人吗？
 
 
 
-## Headings are cool! (h2)
+- 原作：诡秘之主
+- CP：阿兹克·艾格斯/克莱恩·莫雷蒂
+- 分级：NC-17
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+#### 上：
+道恩·唐泰斯先生从拜朗归来时，带回了一位同他一起回到贝克兰德的旧友。这位和唐泰斯先生有着相似的肤色和高挑健美的身材的绅士名叫阿兹克·艾格斯，是位博学而富有的学者。
 
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+佣人们或多或少都感叹于这两位成熟而有魅力的男士关系非同寻常：艾格斯先生在回到贝克兰德后就在唐泰斯的热情邀请下在留在唐泰斯宅邸与他同吃同住，甚至时常陪同他外出处理各种事务。
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+或许他们曾是同生共死过的历险伙伴，负责替客人整理卧室的女仆偷偷打量着正走进门的两个人，宅邸的主人极少有如此亲密的朋友，他的朋友和他一样有着沉稳又强大的气质，他们在异国的未知经历更为他们添加了神秘感的吸引力，猜测这样两位男士的经历总是使人享受的。直到对上道恩先生灰色的眼睛，女仆才意识到自己盯着宅邸主人和他的朋友的时长有些过久了。
 
-### Tables
+好在道恩·唐泰斯先生并没介意她的失礼，仅仅对她微微颔首，告诉她今天她可以不用打扫，并吩咐她向其它佣人转达今天不要再来打扰他和客人的消息。
 
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | --------------------- | --------------------- | ---------------------
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+年轻的女仆脸上带着些许尴尬的红晕，匆忙行礼离开了房间。
+
+道恩带着微笑摇了摇头，在她转身后关上房门，并细心的插好了门栓，又掏出银刀设下灵性之壁。在他身后，阿兹克先生坐在床沿边安静的等待着。
+
+“真是忙碌的一天，不是吗？”道恩自然地帮阿兹克先生脱下外套，然后让自己变回了克莱恩的外貌。随着身形变得单薄，属于道恩的衣物只能松松垮垮的挂在他身上。
+
+阿兹克低头看着凑的离自己特别近，像是撒娇一样的向自己抱怨着贝克兰德上层社会的交往如何复杂而琐碎、耗人精力的学生，伸手揉乱了他头发。
+
+“辛苦你了，我的克莱恩。”
+
+克莱恩对这种安慰显然很受用，他眯着眼睛又往阿兹克边上靠了靠，继续漫不经心的讲着这几天遇到的大事小事，松软的床垫被两个成年人压出的凹陷使他们两个不可避免地向中心滑。当克莱恩已经从神秘侧的动向又是如何让人琢磨不透讲到替威尔·克瑞斯制作符咒的委托又让他费了好大的劲还没成功时，他差不多已经整个人都靠在阿兹克怀里了。
+
+“不过还好您一直跟我在一起。”年轻人最后总结道，“这可比我一个人在这里的时候好多啦，不然我连可以说这些话的人都没有呢。”
+
+“阿兹克先生，我喜欢您……不，我爱您，您知道吗？”
+
+克莱恩的越说声音越小，最后干脆是贴在阿兹克的耳边说完的。
+
+年长的绅士直视着年轻人的眼睛，褐色的双眼温和而平静，看不见一丝惊讶。
+
+“我知道的。”他回答。
+
+“那您亲亲我好吗？”年轻人问。
+
+克莱恩闭着眼睛，感受着一个很轻的吻落在他的额头，温热的手掌缓缓的勾勒过他的脸颊，摩挲着他的嘴角，让人抑制不住的想要靠近。
+
+但最终，什么都没有发生。
+
+“到此为止吧。”克莱恩平静地说。
+
+他睁开眼睛，阿兹克先生维持着低头拖着他的脸庞的动作，仿佛被定格在那里，嘴角挂着柔和的笑意，直视着他的双眸中见不到不悦，也同样没有疑惑或惊讶。事实上，那双漂亮的眼睛里看不到任何情绪。
+
+克莱恩的左手覆上还停留在自己嘴角边的手掌，感受着对方比自己稍高的体温，叹了一口气。
+
+“还是算了，您要是知道我不光把您的身体做成了密偶，还擅自利用这副身体做这种事满足自己的私欲，搞不好会气到跟我这个学生绝交吧。”
+
+“阿兹克先生“没有任何反应，保持着雕像一样的静止。克莱恩撇了撇嘴，操纵密偶和自己拉开距离。离开了热源，贝克兰德夜间偏低的气温让他哆嗦了一下。
+
+“是啊，还好我应该永远不会知道。”“阿兹克先生”同意道。
+
+克莱恩本打算从床上起身告辞，耳边炸开的另一个声音却让他彻底僵住了。
+
+“事实上，我已经知道了，而且并不介意这件事。”那个熟悉的醇厚的声音说，“事实上，即使你再做的出格一点我也不会介意的，或者说我本来是在期待你会做的更出格一点的。”
+
+克莱恩盯着一点动静都没有的“阿兹克”密偶足足有三秒，才终于反应过来这熟悉的声音应当来自他自己的脑内。
+
+“阿兹克先生？”他迟疑的问道。
+
+“您醒了？”
+
+#### 下：
+
+“您恢复得怎么样了？”克莱恩最后还是压下了想当场逆走四步以灵体逃离现场，装作什么也没发生过的冲动，问了自己目前最关心的问题。
+
+“还不错。”短暂的安静后，他头脑内的声音回答道，克莱恩猜测阿兹克先生或许在检查自己的状态：“精神状态和非凡能力都算稳定，这段时间辛苦你了。”
+
+克莱恩放下心来，点点头：“我会尽快帮您想办法找到可以凭依的身体，或者回到原本身体的办法。”
+
+“克莱恩，”阿兹克在他头脑内说，克莱恩看不到他的面孔，但是觉得他应该是带着笑叹了口气，这感觉有点奇妙，明明是两个完全分开的精神在对话，但因为共用着一个身体的缘故，某些情绪也被联通了起来。
+
+不知道伦纳德和他家的老爷爷对话的时候是不是也是这种感觉，但是阿兹克先生并不是寄生者，而是被克莱恩以灵体的行式接纳进了自己的身体，硬要说的话，大概是一个没变成恶灵的附身者。
+
+附身者说：“你是不是该解释下刚才的情况？”
+
+克莱恩深吸了一口气，告诉自己要保持平静。脑子里突然滑过一句地球流行短语：该来的总会来。
+
+“随便摆弄您的身体我很抱歉。”
+
+“技术上来说它已经是你的密偶了，怎么对待是你的权力。我说的不是这个。”阿兹克听起来有些哭笑不得。
+
+克莱恩咬着自己的下嘴唇，觉得自己开始从脸部开始发烫，并且有往全身漫延的趋势。
+
+“就和您看到的一样，我喜欢您，如果您指的是这个的话，就算您介意的话我也不会收回的。”
+
+“克莱恩。”
+
+“您听我说完，”克莱恩没让另一个精神打断他，自顾自地说了下去：“您上次也不听我说，上次您把我吓到了，在您带着鳞片出现在我面前，让我把您变成密偶的时候。”
+
+“上次我别无选择，前代死神的遗留影响太大，除了这么结束我想不到别的阻止污染的办法。”
+
+“所以我把您的身体变成了密偶，分离出来的灵魂可以附身在我自己身上。”克莱恩接着他的话说，“但是那纯属灵感的偶现，您肯定没打算后面那一步。”
+
+阿兹克没有反驳他。
+
+“您沉睡的时候我想了好多次：如果我当时没想到可以让您成为附身者，或者没有捕捉到您的灵，或者您就这么睡着了一直不醒。我想如果您不回来了会怎么样，我没法接受这个，您对我来说太重要了。”
+
+他说话的时候右手抓着腿边的床单，不知觉中用的力有点大，把那小块的白布抓得皱巴巴，又慢慢放开了。
+
+“或许现在向您坦白了也好……抱歉，是我逾越了。如果您不接受这份感情也没关系，我保证不会有什么和以前不一样的。如果您恢复之后想离开……”
+
+年轻人终于短暂的停了下来，没人说话的房间里有些过于安静，他等待着平静被打破，像等待一纸裁定书。
+
+但或许好运到底是眷顾着克莱恩的，他并没有等到他的裁定书，相反，另一个声音终于开口的时候除了无奈还带了点刚好能被察觉的笑意。
+
+“克莱恩”他叫他的名字，“克莱恩，你到底为什么会觉得我不会也喜欢你呢？”
 
 
-Title 1 | Title 2 | Title 3 | Title 4
---- | --- | --- | ---
-lorem | lorem ipsum | lorem ipsum dolor | lorem ipsum dolor sit
-lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur | lorem ipsum dolor sit amet | lorem ipsum dolor sit
-lorem ipsum dolor | lorem ipsum | lorem | lorem ipsum
-lorem ipsum dolor | lorem ipsum dolor sit | lorem ipsum dolor sit amet | lorem ipsum dolor sit amet consectetur
+
+这事到底是怎么发展成这样的？克莱恩当然知道用一个夜晚就可以搅得世界天翻地覆，但他以前从来不知道一个夜晚还可以在安逸甜美的同时惊心动魄。
+
+年轻的密偶大师在心里的某个角落认为，他大概表现得过于青涩了：但这不能怨他，毕竟就算他经历过数不清的阴谋筹算，九死一生，对爱情的经验也依然近乎白纸一张，一个晚上的情感过山车实在是超过了一点，以至于他在回想前半夜的时候感到头脑像一团乱麻。
+
+很快他就不再有功夫纠结这个了，介于他要分出不少注意力去操纵灵体之线，而剩下的那一部分注意力在含住阿兹克先生的嘴唇的时候就宣告脱离主人的指挥了，满足和羞耻同时淹没了他。
+
+阿兹克先生的怀抱真的很舒适，那双温暖的大手现在钻进了他的衬衫下面，能把住他的整个腰身，如果他不是由自己操纵着的就更好了，克莱恩想。但是这和他曾经的自导自演不同，这次他的阿兹克先生正透过他自己的眼睛看着这一幕，他没有呵止学生明显过界了的情感和欲望，反而欣然应许了正在发生一切，这个事实让克莱恩隐隐感到兴奋。
+
+他不再满足于浅尝辄止的亲吻，大着胆子让年长者张开薄唇，自己的舌头滑进了去。克莱恩本以为会尝到烟草的苦涩，却发现阿兹克先生的口中意外的寡淡，然后他意识到对方大概得有小半年没有抽过烟了，尽管他会装模做样地让“阿兹克先生”偶尔在窗边点上一支雪茄，但是密偶既不能进食，也没有呼吸，因此对方虽然身上总带着他熟悉的味道，尝起来却显然是另一回事。
+
+如果要用密偶去伪装原主的话这倒是一个马脚，不知道用幻术能不能做这方面的弥补……不对，就算要伪装也一般不会涉及这种亲密接触吧。但是克莱恩又想起了在海上的时候给艾弥留思当替身的经历——谁知道呢？
+
+“克莱恩，或许你该专心一点。”他脑内的声音有点无奈地响起来。
+
+“这不能怪我。”明白自己被纵容着的密偶大师在头脑里和他的附身者理论着，而他现实里的唇齿还在和原本属于对方的躯体交缠，“感觉实在有点诡异。”
+
+他大概在下意识地分散自己的注意力，毕竟虽然克莱恩渴望和自己老师的亲密接触有一段时间了，但由他自己操控一切来塑造这个场景是另一回事，而由他渴望的对象旁观这些又是另一回事，克莱恩不太想承认自己感觉到有些羞耻。
+
+但是考虑到这一场景的始作俑者完全是他自己，他实在无从埋怨。密偶大师自始至终完全掌握着的主动权，是他自己在感情得到模糊的回应后半是怀疑半是试探地操纵着“阿兹克先生”拥自己入怀，是他自己先一步跨过了这份关系原有的界限，以在现实中复现的形式将自己显然过界的渴望展示给了对方。
+
+阿兹克先生声称这具身体被做成密偶后就成了克莱恩可以为所欲为的所有物，而克莱恩好奇他的底线在哪里。阿兹克先生同时也声称克莱恩不是这段关系中怀抱着超出师生和朋友情感的人，克莱恩同样不敢确定其中有多少安抚自己的成分。年长者的平静带给他的安心和疑虑一样多，但至少给了他去进一步确认的勇气。
+
+至少他是被宠爱着的，不管究竟是作为晚辈还是恋人，如果阿兹克先生在某个节点认为他做得太超过了，那么也只需停下来后退一步就好。克莱恩确信自己不会因此而被疏远，而他也并不是追求感情完满的类型，得到完全回应的爱恋自然使人满足，但既然他对对方足够重要，他并不太介意自己被给予的感情是否是爱情——停在对方身边的位置同样是个不坏的结局，他仍可以心安理得地在情感上依赖对方，同样可以获得来自恋慕对象的关爱。这并非卑微或大度，仅仅因为他们的共处本身就足够使人快乐。
+
+或许这会一直维持下去，或许会持续到其中一方决定再迈出一步，不管是阿兹克先生决定向前还是克莱恩决定退后。但现在的克莱恩至少需要确认他会停在哪里。
+
+事实上却是他始终没有触发到那个停下的信号，他得到的始终是纵容，直到到了克莱恩自己也不知道该如何继续下去的节点。
+
+毕竟他向来对这份逐渐萌芽生长的感情并不抱什么希望，而对象又是一直被自己作为师长看待，各个角度上来说都比自己年长许多的阿兹克，因而旖念大多止步于肌肤之亲，唇齿相交；至于坦诚相见，两辈子的情感经验加起来也没有完成一个本垒，大概一年前还认为自己算是直男的密偶大师根本还没来得及细想。
+
+不如停在这里？这又使克莱恩莫名地感到有些丢脸。在密偶大师的故乡，对这个情况有个非常贴切的比喻：骑虎难下。
+
+克莱恩从“阿兹克先生”口中把自己拉开，唾液在他们之间拉出了一小条银丝，他隐蔽地吞咽了一下，心里还在思考是否继续的事。在很短的一小段时间内，他的脑内和现实中的房间一样安静。
+
+最后倒是阿兹克先生先打破了沉默。
+
+他说：“我知道了。”
+
+“克莱恩，把衬衫和裤子解开好吗？”
+
+“什么？”
+
+“不然继续下去的话不会束手束脚吗？”
+
+“我说的不是这个……”
+
+附身者叹了口气，克莱恩产生了他的声音其实在自己耳边的错觉，“老实说我其实有点受伤，就你竟然试探我的说法是不是认真的这点。我很没有信用吗？”
+
+“我不是不信任您！”年轻的密偶大师慌慌忙忙地辩解道：“只是……只是您的回应对我来说太好了，以至于感觉起来不像是真的。如果它是个泡影那么我需要去确认，而不是在沉溺进去后的某天突然让它被戳破。我同样也不想用我们的关系来绑架你……”
+
+“那么需要我现在向你证明吗？我想刚才所发生的已经足够我确定：我确实对你怀有欲望，而且并不耻于承认它。”
+
+克莱恩觉得他烫得要烧起来了，但与此同时也觉得自己心里空着的某块地方被填上了。
+
+“如果是我本人在控制自己的行为的话，我确实想要更多地感受你，我大概会从胸前开始。”附身者的声音逐渐低沉下来，如果他有实体的话此时一定是凑在克莱恩的耳边的，他把湿热的气息全吐在他脖子上，“你比在廷根的时候健康了不少，但是看起来还是很瘦小，我大概会顺着你锻炼出来的肌肉往下，或许我会花点时间揉捏你的胸前，男性的胸口不是为了欢爱存在的，但是依然很敏感不是吗？我说不定会喜欢看你颤抖的样子。”
+
+“你希望我这么做吗？”克莱恩问，为自己沙哑的声音稍微吃惊了一小下。
+
+“当然，如果你愿意继续下去的话。”
+
+克莱恩只花了一秒去犹豫要不要抓住这个怯场的机会，下一秒他就让“阿兹克先生”的一只手覆上了自己的胸口。
+
+感谢互联网和作为非凡者被卷入的种种经历，就算没有实战经验，克莱恩也大概知道这时候的手法：“阿兹克先生”的手掌按压过他上半身，拇指在乳首处用力。这感觉有点奇怪，他的手指刮过的地方产生了微弱的痛感和麻感，克莱恩分不出有多少是身体忠实的反馈，有多少是因为阿兹克先生的话产生的心理上的放大。
+
+“下一步我会剥掉你的下装，你勃起了是不是？”附身者说，语气和问他有没有吃过晚饭差不多。
+
+密偶大师发出小声的呜咽，一边让“阿兹克先生”照他说的做一边试图脱掉挂在肩膀上的衬衫，但是被另一个声音制止了。
+
+“不，让上衣留在你身上吧。我想它留在你身上比全脱掉看起来更诱人一点。”
+
+克莱恩作为一个成年男人不会不明白这里面的情趣，他挺有娱乐精神地感叹着果然年长的男人在这方面就算比他更会一点，乖乖地住了手，扶着密偶的肩膀，把挂在脚踝上的衣物一次性踢掉。
+
+“你又看不到。”密偶大师说，放弃了使用敬称。
+
+“可是我能知道。鉴于我借用着你的视角，或许我该让你找面镜子？”
+
+“阿兹克先生”的动作僵硬了一下。
+
+“我开玩笑的，还是算了。我想就第一次尝试来说这已经够多了。”
+
+克莱恩悄悄松了一口气。
+
+“好了，我想开始的时候或许总是节奏慢一点比较好。我会顺着你的鼠蹊部往下，我会摸到你大腿之间的皮肤，那里很细嫩，因为连你自己都很少碰不是吗？对，就这样，好孩子，或许我该在等等，但是你希望我现在往上一点吗？”
+
+跟着他的话，密偶的手指停在了他主人的腿间，克莱恩发现自己头一次不喜欢阿兹克先生慢条斯理的时候。他被吊在不上不下的地方，想要得要疯了。当然，他也可以让“阿兹克先生”称着自己的意思来，但那并非游戏的意义所在。
+
+“求你，碰碰我，现在。”他喘着气说。
+
+“当然。”
+
+克莱恩搂着凑到自己面前的肩膀，在阴茎被握住的时候因为满足而闭上了眼睛。这算是他第一次被不是自己的人抚慰，“阿兹克先生”只是顺着那根性器上下撸动了几下，手指刮过龟头，但是刺激却和自己动手时完全不是一个等级。深色皮肤的密偶僵硬了一下，因为来自提线人掌控的减弱而失去重心，和他一起倒在了床上。
+
+克莱恩翻了个身，如果这里有别人，那他看上去应该是主动骑在了年长男人的身上。这个姿势比较方便克莱恩控制双方的力量，即使在接下来分一点神也能保持住两个“人”的平衡——他多少能预感到这种小范围失控绝不会是今晚唯一一次。
+
+“还要继续吗？”附身者等他调整过来后才问，如果密偶大师清醒一点的话大概能意识到这种方式差不多是哄诱了。
+
+可惜他没有：“这个时候停下来对我太残忍了。”克莱恩嘀咕着。
+
+“得寸进尺。”附身者评论，“但是大概我也一样。克莱恩，我会占有你。放松一点，如果我们不给你扩张的话你会受伤……”
+
+密偶大师的脸颊潮红一片，身体上也透出淡淡的粉色。“阿兹克先生”的两根手指在他的身体里，那些结骨分明的手指，他曾经盯着他们夹着烟斗在男人嘴边摇晃，或者想象它们轻巧地带着钢笔写下给他自己的一封封来信。现在在他的屁股里弯曲又直起，戳着敏感的肠肉，让克莱恩的身体为它们打开。
+
+附身者还在他脑子里低语，但是克莱恩已经没办法让“阿兹克先生”一点不差地照做了。操控密偶的手指是项精细活，而细小的快感烧灼着他的神经，让仅仅维持基本的控制都变得困难。他甚至怀疑仆人们备在客房的膏油是不是带了助兴的成分，不然要怎么解释不过是几根手指的玩弄为什么会让他想要到发疯。
+
+阿兹克先生会有什么感受呢？他肯定看不到克莱恩在他身上凌乱的姿态，但是他肯定知道克莱恩在因为他的声音战栗，知道他们接触的每一寸皮肤像要烧起来。这很不公平，克莱恩想，为什么只有他一个要受欲火的折磨，而阿兹克先生可以冷静得像个旁观者。哦，他确实是个旁观者，技术上来说。
+
+他终于按上了给自己带来极大快感的一点的时候几乎连自己都控制不住了，阿兹克先生低沉的声音在问他感觉怎么样，克莱恩却没办法发出声音来回答，他差一点就可以像他引导的那样攀上高潮。
+
+但是灵体之线在克莱恩的眼中变得模糊了，他又从快感的巅峰滑了下来。
+
+克莱恩喘息着把自己贴在“阿兹克先生”的胸膛上，有一瞬间脱离了控制的密偶倒在柔软的床垫上，没有心跳，没有呼吸带来的起伏，没有皮肤下血液的奔流。
+
+“我想抱着你。”克莱恩开口，自己都没有意识到自己语气里带上的委屈。
+
+“我在抱着你呢，克莱恩。”附身者温和地说。
+
+“你知道我说的是什么。”克莱恩说，“我知道现在够好了，但是我想要你。”
+
+“也不是不行，不过可能感觉起来有些奇怪。”阿兹克先生说。
+
+克莱恩怔了一下，然后出乎他意料的，他的密偶自己搂住了他。他随即明白附身者借用了他作为宿主的能力，或许因此，他自己也获得了对方的感官。他从对方的眼中看到自己沉溺在情欲里的表情，知道他抚摸过自己腰侧的手指沾上自己身上的薄汗，知道他在自己身后摸到了一片泥泞。
+
+“你让我寄生的地方太深了。”阿兹克先生解释着，他扶着克莱恩在自己身上坐好，在他的颈侧留下一个吻，“甚至给了我调动你的能力的权力，如果我想的话我可以短时间的占据你的身体，操控你干任何事。不过或许该感谢这个，现在我能碰你了。”
+
+“我知道附身是怎么回事，但是我也没想到有些能力用起来能这么……唔嗯——”克莱恩嘀咕着，但是没能说完就被自己的尖叫打断了。
+
+阿兹克先生扶着他的腰，挺硬的性器毫无预警地捅进了他已经被玩得湿软的后穴，密偶大师都不知道他是什么时候勃起的。
+
+“……这么有创意。”克莱恩咬着自己的嘴唇把最后几个字说完。
+
+“放松。”阿兹克先生提醒他。
+
+克莱恩本来以为差点把他自己晚上高潮的扩张怎么想都是够了，但是阿兹克先生的尺寸比他想象的夸张。进去的那一部分把狭窄的穴道撑的满满的，毫无怜悯的刮过已经被刺激的很敏感的软肉，酥麻的热流和被突然打开的钝痛混在一起，让他全身都在发热颤抖。而在意识的某一角，来自阿兹克先生的那一部分知觉被密偶忠实地传达到了他的手中：他感觉起来起来又湿又紧，阿兹克先生按着他坐下来，但是怕他受伤。
+
+阿兹克先生显然知道这个，他亲了亲克莱恩的嘴角。“慢慢来。”
+
+克莱恩吸了一口气，慢慢沉下腰。完全进入的时候两个人同时发出了一声喘息。
+
+阿兹克先生动起来的时候过多的感觉席卷了克莱恩，霸占了他昏昏沉沉的大脑，让他除了他们紧紧连着的下身什么都想不了。他甚至在过了好一会才意识到那些放浪的尖叫来自他自己。
+
+本来方便维持平衡的体位同样方便阿兹克先生的侵犯，他进入的时候深入到只留囊袋在外面，拔出的时候毫不留情得拉扯着试图挽留他的媚肉。找不到其它着力点的克莱恩只能把自己的全部重量都放在另一人身上，这让他产生自己被钉在了那根让他乱七八糟的性器的错觉。
+
+克莱恩从阿兹克先生的视角能看到自己张着嘴，近乎淫乱的表情——他喜欢这个，但是对克莱恩来说太过了，所以他选择闭上眼睛，好像这样就能忽略这个。
+
+阿兹克先生伸手去碰他贴着小腹的阴茎的时候，他几乎立刻达到了高潮。精液溅上了他自己的胸前，甚至有些留在了脸上，被阿兹克先生用拇指抹了下来，然后送进嘴里舔干净。
+
+克莱恩看着他，有点移不开眼睛。然后又被一阵抽送逼出了呻吟。
+
+
+结束后克莱恩把自己窝进了年长男人的怀里，女仆明天大概会上楼打扫，但是又不是说克莱恩没办法在没人知道的时候溜回主卧。他现在累得一根指头也不想动，何况分开着实可惜。
+
+“克莱恩，你得清理自己。”
+
+“序列五不会因为含着精液过一晚就生病的。”年轻的密偶大师回应道，手还抓着男人的衬衫。
+
+附身者在他脑内叹了一口气，然后“阿兹克先生”把他从床上横抱了起来，平稳地往浴室走去。
+
+“我会尽快帮您想办法找回身体的。”克莱恩小声呢喃着，他知道他的附身者能听到，“或者找个新的也行。”
+
+抱着他的人吻了吻他的额角。
+
+然后他坠入了安静的睡眠。

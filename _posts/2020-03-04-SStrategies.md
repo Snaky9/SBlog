@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 非常策略
+title: 【诡秘之主/兹克】非常策略
 tags: [诡秘之主,兹克]
 categories: 诡秘短篇
 author: 玟梓
