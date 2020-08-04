@@ -1,15 +1,14 @@
-# main links
-main:
-  - title: "Documentation"
-    url: /documentation
-  - title: "Netlify CMS"
-    url: /netlify-cms-jekyll-setup
-  - title: "Blog"
-    url: /blog        
-  - title: "Submenu"
-    url: /
-    children: 
-      - title: "Sitemap"
-        url: /sitemap.xml
-      - title: "RSS"
-        url: /feed.xml   
+- title: About
+  url: /about/
+- title: Years
+  url: /years/
+- title: Categories
+  url: /categories/
+- title: Tags
+  url: /tags/
+- title: More
+  sublinks:
+    - title: FAQ
+      url: /faq/
+    - title: Docs
+      url: /docs/
