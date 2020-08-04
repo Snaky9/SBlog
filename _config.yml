@@ -6,11 +6,12 @@ email: ＥvanChen99@outlook.com
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-feed
+
   - jekyll-sitemap
   - jekyll-paginate
 
 paginate: 10
+skin: daylight
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
 # 
@@ -39,5 +40,5 @@ social:
     - https://weibo.com/u/2132057051/home?wvr=5
     - https://www.lofter.com/blog/mosquitoyeah?act=dashboardclick_20130514_04
     - https://github.com/Snaky9/SBlog
-google_site_verification: 
+google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
