@@ -26,10 +26,9 @@ layout: default
           {% if post.tags.size > 0 %}
           •{% assign tags = post.tags | sort %}
           {% for tag in tags %}
-          <li class="post-tag">
+          <span class="p-author h-card" itemprop="name">
             {% assign slugified_tag = tag | slugify %}
-            <a href="{{ '/tags/#:tag' | replace: ':tag', slugified_tag | relative_url }}">{{ slugified_tag }}</a>
-          </li>
+            <a href="{{ '/tags/#:tag' | replace: ':tag', slugified_tag | relative_url }}">{{ slugified_tag }}</a></span>
         {% endfor %}
         {% endif %}
         {%- if post.show_excerpts != false -%}
