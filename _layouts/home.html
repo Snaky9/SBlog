@@ -25,8 +25,6 @@ layout: default
         <span class="post-meta">{{ post.date | date: date_format }}</span>
           {% if post.tags.size > 0 %}
           <span class="post-meta">
-        
-          <ul class="post-taxonomies post-tags">
           {% assign tags = post.tags | sort %}
           {% for tag in tags %}
             <li class="post-tag">
@@ -34,7 +32,6 @@ layout: default
               <a href="{{ '/tags/#:tag' | replace: ':tag', slugified_tag | relative_url }}">{{ slugified_tag }}</a>
             </li>
           {% endfor %}
-          </ul>
           </span>
          {% endif %}
         {%- if post.show_excerpts != false -%}
