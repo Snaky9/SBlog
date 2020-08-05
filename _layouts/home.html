@@ -23,9 +23,6 @@ layout: default
           </a>
         </h2>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        {%- if post.show_excerpts != false -%}
-          <div class="post-excerpt">{{ post.excerpt | strip_html }}</div>
-        {%- endif -%}
         <span>
           {% if post.tags.size > 0 %}
           <div class="post-meta">
@@ -42,6 +39,10 @@ layout: default
           </div>
          {% endif %}
         </span>
+        {%- if post.show_excerpts != false -%}
+          <div class="post-excerpt">{{ post.excerpt | strip_html }}</div>
+        {%- endif -%}
+        
         
       </li>
       {%- endfor -%}
