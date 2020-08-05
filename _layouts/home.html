@@ -23,8 +23,8 @@ layout: default
           </a>
         </h2>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
-        {%- if post.author -%}
-        • {% for author in post.author %}
+        {%- if post.tag -%}
+        • {% for tag in post.tag %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
             <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
