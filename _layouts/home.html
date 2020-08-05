@@ -24,15 +24,11 @@ layout: default
         </h2>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
           {% if post.tags.size > 0 %}
-          <span class="post-meta">
-          {% assign tags = post.tags | sort %}
-          {% for tag in tags %}
-            <li class="post-tag">
-              {% assign slugified_tag = tag | slugify %}
-              <a href="{{ '/tags/#:tag' | replace: ':tag', slugified_tag | relative_url }}">{{ slugified_tag }}</a>
-            </li>
-          {% endfor %}
-          </span>
+          • {% for author in post.tag %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ tag }}</span></span>
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
          {% endif %}
         {%- if post.show_excerpts != false -%}
           <div class="post-excerpt">{{ post.excerpt | strip_html }}</div>
