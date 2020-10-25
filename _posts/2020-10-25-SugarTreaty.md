@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sugar Treaty
-tags: [TSN,ME,Sugar Treaty]
+title: Sugar Treaty（01）
+tags: [TSN,ME,SugarTreaty]
 categories: TSN(社交网络)
 author: 玟梓
 ---
