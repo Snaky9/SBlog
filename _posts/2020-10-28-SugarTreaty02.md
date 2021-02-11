@@ -2,12 +2,12 @@
 layout: post
 title: Sugar Treaty（02）
 tags: [TSN,ME,SugarTreaty]
-categories: TSN(社交网络)
+categories: TSN(社交网络)/ME-SugarTreaty
 author: 玟梓
 ---
 
 ### Summary：
-##### Mark为了服务器资金采取了一些非常规尝试，过程不太顺利，但结局是好的。
+##### Mark为了服务器资金采取了一些非常规尝试，过程不太顺利，但结局是好的，他决定当个良心卖家
 
 
 - 原作：The Social Network
