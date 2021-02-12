@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何处理母子关系
+title: 如何正确处理母子关系
 tags: [TSN,ME]
 categories: TSN(社交网络)/ME-短篇
 author: 玟梓
