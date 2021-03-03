@@ -1,14 +1,14 @@
-$text-color:            #1b1111 !default;
-$text-color-light:      #743835 !default;
-$background-color:      #f7f4f2 !default;
-$code-background-color: #91353e !default;
+$text-color:            #081315 !default;
+$text-color-light:      #568686 !default;
+$background-color:      #fff !default;
+$code-background-color: #8fb1ad !default;
 
-$border-color:          #9a7263 !default;
+$border-color:          #8fb1ad !default;
 $border-color-light:    lighten($border-color, 40%) !default;
 $border-color-dark:     darken($border-color, 25%) !default;
 
-$link-base-color:       #6d2121 !default;
-$link-visited-color:    darken($link-base-color, 15%) !default;
+$link-base-color:       #22585d !default;
+$link-visited-color:    #0f3133 !default;
 
 $table-text-color:      lighten($text-color, 18%) !default;
 $table-zebra-color:     mix($background-color, $border-color, 90%) !default;
