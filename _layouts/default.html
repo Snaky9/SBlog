@@ -1,36 +1,29 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: " en" }}">
 
-<div class="panel-body" style="height: 400px; overflow-y:scroll">
-  <div style="border: 1px  #568686; width: 90%; margin: 0 auto;">
-    <span>
+<head>
+  {% include head.html %}
+</head>
 
-      <head>
-        {% include head.html %}
-      </head>
+<body>
+  <div class="site-container">
+    <header class="site-header">
+      {% include header.html %}
+    </header>
 
-      <body>
-        <div class="site-container">
-          <header class="site-header">
-            {% include header.html %}
-          </header>
-
-          <div class="site-body wrapper">
-            <aside class="site-sidebar" id="site-sidebar">
-              {% include sidebar.html %}
-            </aside>
-            <main class="site-main" id="site-main" aria-label="Content">
-              {{ content }}
-              <footer class="site-footer">
-                {% include footer.html %}
-              </footer>
-            </main>
-          </div>
-        </div>
-      </body>
-
-    </span>
+    <div class="site-body wrapper">
+      <aside class="site-sidebar" id="site-sidebar">
+        {% include sidebar.html %}
+      </aside>
+      <main class="site-main" id="site-main" aria-label="Content">
+        {{ content }}
+        <footer class="site-footer">
+          {% include footer.html %}
+        </footer>
+      </main>
+    </div>
   </div>
-</div>
+</body>
+
 
 </html>
