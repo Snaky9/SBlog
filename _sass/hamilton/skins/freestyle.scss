@@ -1,10 +1,10 @@
 $text-color:            #081315 !default;
 $text-color-light:      #568686 !default;
 $background-color:      #fff !default;
-$code-background-color: #0f3133 !default;
+$code-background-color: #f8f8f8 !default;
 
 $border-color:          #0f3133 !default;
-$border-color-light:    lighten($border-color, 40%) !default;
+$border-color-light:    lighten($border-color, 20%) !default;
 $border-color-dark:     darken($border-color, 25%) !default;
 
 $link-base-color:       #22585d !default;

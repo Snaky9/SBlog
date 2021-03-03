@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-
+  <div style="height:auto !important;max-height:200px;overflow:scroll;overflow-x:hidden;">
   <header class="post-header">
 
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -30,11 +30,11 @@ layout: default
 
   </header>
 
-  <div style="height:auto !important;max-height:200px;overflow:scroll;overflow-x:hidden;">
-    <div class="post-content e-content" itemprop="articleBody">
-      {{ content }}
-    </div>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
   </div>
+  
 
   <footer class="post-footer">
     {% if page.categories.size > 0 %}
@@ -85,5 +85,7 @@ layout: default
   {% if page.comments != false and jekyll.environment == "production" %}
     {% include disqus.html %}
   {% endif %}
+
+</div>
   
 </article>
