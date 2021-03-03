@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+<div style="height:auto !important;max-height:200px;overflow:scroll;overflow-x:hidden;">
 
   <head>
     {% include head.html %}
@@ -10,7 +11,7 @@
       <header class="site-header">
         {% include header.html %}
       </header>
-      
+
       <div class="site-body wrapper">
         <aside class="site-sidebar" id="site-sidebar">
           {% include sidebar.html %}
@@ -24,5 +25,6 @@
       </div>
     </div>
   </body>
+</div>
 
 </html>
