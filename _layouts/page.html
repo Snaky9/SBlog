@@ -12,17 +12,15 @@ layout: default
     {{ content }}
   </div>
 
-  <div id='metype-container' class='iframe-container' data-metype-account-id='1000844' data-metype-host='https://www.metype.com/' data-metype-primary-color='#0000ff' data-metype-bg-color='#ffffff' data-metype-font-color='#4a4a4a'></div>
-  <script type='text/javascript'>
-    var metypeContainer = document.getElementById("metype-container"),
-      page_url = metypeContainer.getAttribute("data-metype-page-url");
-    metypeContainer.setAttribute('data-metype-page-url', page_url || window.location.href);
-    metypeContainer.setAttribute('data-metype-window-height', window.innerHeight);
-    metypeContainer.setAttribute('data-metype-screen-width', window.screen.width);
-    talktype(function() {
-      talktype.commentWidgetIframe(metypeContainer);
-    });
-  </script>
+  <script>
+    new Valine({
+        el: '#comments',
+        app_id: 'lel8tfYg7feUkytVD9G4s0Lr-MdYXbMMI',   //这里变量的取值在网站配置文件里_config.yml
+        app_key: '3WQkO5zEVlqgV6Bmc5x6u1iF', //这里变量的取值在网站配置文件里_config.yml
+        placeholder:'just gogo' ,   //这里变量的取值在网站配置文件里_config.yml
+        serverURLs: 'lel8tfyg.engine.lncldglobal.com',
+        lang: 'zh-CN'
+    });</script>
 
 
 </article>
