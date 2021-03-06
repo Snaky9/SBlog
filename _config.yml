@@ -33,11 +33,11 @@ exclude:
 valine_comment:
   enable: true
 # app_id
-  leancloud_appid: IqWs13Mb8UvsYgHutfVtAShr-gzGzoHsz
+  leancloud_appid: lel8tfYg7feUkytVD9G4s0Lr-MdYXbMMI
 # app_key
-  leancloud_appkey: uANhNessFjEi3S7qMaHgNHk2
+  leancloud_appkey: 3WQkO5zEVlqgV6Bmc5x6u1iF
 # placeholde
-  placeholder: “Just go go"
+  placeholder: Just go go
 
 twitter:
   username: 
