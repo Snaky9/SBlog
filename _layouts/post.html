@@ -84,7 +84,7 @@ layout: default
   </footer>
 
   {% if page.comments != false and jekyll.environment == "production" %}
-  {% include disqus.html %}
+  {% include _third-party/comments/valine.html %}
   {% endif %}
 
 
