@@ -68,6 +68,16 @@ layout: default
     </div>
     {% endif %}
 
+    <div id="hyvor-talk-view"></div>
+    <script type="text/javascript">
+      var HYVOR_TALK_WEBSITE = 3418; // DO NOT CHANGE THIS
+      var HYVOR_TALK_CONFIG = {
+        url: '{{ page.url | absolute_url }}',
+        id: '{{page.id}}'
+      };
+    </script>
+    <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
+
     <nav class="post-pagination" role="navigation">
       {% if page.previous %}
       <a class="post-previous" href="{{ page.previous.url | relative_url }}">
@@ -83,7 +93,7 @@ layout: default
     </nav>
   </footer>
 
-  {% include valine.html %}
+
 
 
 
