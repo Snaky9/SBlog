@@ -3,6 +3,15 @@
 
 <head>
   {% include head.html %}
+  <script type='text/javascript'>
+    window.talktype = window.talktype || function (f) {
+      if (talktype.loaded)
+        f();
+      else
+        (talktype.q = talktype.q || []).push(arguments);
+    };
+  </script>
+  <script src='https://www.metype.com/quintype-metype/assets/metype.js'></script>
 </head>
 
 <body>

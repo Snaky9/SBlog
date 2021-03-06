@@ -30,7 +30,7 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-leancloud: http://pirogue.org/js/av-min.js
+#leancloud: http://pirogue.org/js/av-min.js
 valine:
   enable: true
 # app_id

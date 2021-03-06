@@ -12,13 +12,17 @@ layout: default
     {{ content }}
   </div>
 
-  <script>
-    var idcomments_acct = 'c62f52103c3801c44f5b59dca8762685';
-    var idcomments_post_id;
-    var idcomments_post_url;
+  <div id='metype-container' class='iframe-container' data-metype-account-id='1000844' data-metype-host='https://www.metype.com/' data-metype-primary-color='#0000ff' data-metype-bg-color='#ffffff' data-metype-font-color='#4a4a4a'></div>
+  <script type='text/javascript'>
+    var metypeContainer = document.getElementById("metype-container"),
+      page_url = metypeContainer.getAttribute("data-metype-page-url");
+    metypeContainer.setAttribute('data-metype-page-url', page_url || window.location.href);
+    metypeContainer.setAttribute('data-metype-window-height', window.innerHeight);
+    metypeContainer.setAttribute('data-metype-screen-width', window.screen.width);
+    talktype(function() {
+      talktype.commentWidgetIframe(metypeContainer);
+    });
   </script>
-  <span id="IDCommentsPostTitle" style="display:none"></span>
-  <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
 
 
 </article>
