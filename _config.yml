@@ -30,7 +30,8 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-valine_comment:
+#leancloud: http://pirogue.org/js/av-min.js
+valine:
   enable: true
 # app_id
   leancloud_appid: lel8tfYg7feUkytVD9G4s0Lr-MdYXbMMI
@@ -38,6 +39,8 @@ valine_comment:
   leancloud_appkey: 3WQkO5zEVlqgV6Bmc5x6u1iF
 # placeholde
   placeholder: Just go go
+  serverURLs: lel8tfyg.engine.lncldglobal.com
+  lang: zh-CN
 
 twitter:
   username: 
