@@ -12,16 +12,13 @@ layout: default
     {{ content }}
   </div>
 
-  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
   <script>
-    new Valine({
-      el: '#comments',
-      app_id: 'lel8tfYg7feUkytVD9G4s0Lr-MdYXbMMI',   //这里变量的取值在网站配置文件里_config.yml
-      app_key: '3WQkO5zEVlqgV6Bmc5x6u1iF', //这里变量的取值在网站配置文件里_config.yml
-      placeholder: 'just go go',    //这里变量的取值在网站配置文件里_config.yml
-      serverURLs: 'lel8tfyg.engine.lncldglobal.com'
-    });</script>
+    var idcomments_acct = 'c62f52103c3801c44f5b59dca8762685';
+    var idcomments_post_id;
+    var idcomments_post_url;
+  </script>
+  <span id="IDCommentsPostTitle" style="display:none"></span>
+  <script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
 
 
 </article>
