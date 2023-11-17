@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+主页是放自己的文，副业是帮老婆和朋友当停车场的一个地方
+
 ### 使用说明：
 
 回到首页：请点击左上角的MosBlogs标志
